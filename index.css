@@ -1,0 +1,61 @@
+    body {
+        padding-top: 56px; /* Offset for fixed navbar */
+        background-color:rgb(54, 53, 53); /* Dark background color matching the navbar */
+    }
+    
+  .container-marketing .col-lg-4 {
+      transition: transform 0.3s, background-color 0.3s;
+      margin-bottom: 30px; /* Adding spacing between the cards */
+      padding: 20px;
+      border-radius: 15px;
+  }
+  .container-marketing .col-lg-4:hover {
+      background-color: #121313; /* Greyish background on hover */
+      transform: scale(1.05); /* Increase size on hover */
+  }
+  .container-marketing img {
+      transition: transform 0.3s;
+  }
+  .container-marketing .col-lg-4:hover img {
+      transform: scale(1.1); /* Slightly increase image size on hover */
+  }
+    .navbar-custom {
+        margin: 0 auto; /* Center the navbar brand */
+        position: absolute;
+        width: 100%;
+        left: 50%;
+        background-color: aliceblue;
+        transform: translateX(-50%);
+    }
+    .text-white {
+        color: white !important;
+    }
+    .carousel-caption {
+        background: rgba(0, 0, 0, 0.5); /* Semi-transparent black background */
+        padding: 10px; /* Add some padding for better readability */
+    }
+    .footer {
+          color: rgb(255, 255, 255);
+          text-align: center;
+        }
+    .footer p a{
+        text-decoration: none;
+        color: rgb(255, 255, 255);
+    }
+    .nav-bar a{
+        color: #000;margin-right: 20px;
+    }
+    .nav-bar{
+        width: inherit;
+    }
+    .navbar-brand img{
+        width:200px;
+        height: 40px;
+
+    }
+    .X{
+        color: rgb(254, 209, 47);
+    }
+    hr{
+        color: white;
+    }

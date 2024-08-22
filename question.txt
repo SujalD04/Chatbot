@@ -1,0 +1,36 @@
+1.TIRES
+▪ Sir what is the Tire Pressure of Left Front?
+▪ Sir what is the Tire Pressure of Right Front?
+▪ what is the Tire Condition for Left Front ?
+▪ what is the Tire Condition for Right Front? 
+▪ Sir what is the Tire Pressure for Left Rear?
+▪ Sir what is the Tire Pressure for Right Rear?
+▪ what is the recent Tire Condition of Left Rear – (Good, Ok, Needs Replacement)
+▪ what is the recent Tire Condition of right Rear (Good, Ok, Needs Replacement)
+▪ what are the other problem do you see?
+2.BATTERY
+▪ sir what is Battery Make of?
+▪ sir last Battery replacement date of the subject?
+▪ Sir What is the Battery Voltage Value ?
+▪ sir is there leakage or damage in the battery?
+▪ sir Did the battery got Rusty ?
+▪ Sir any other problem in the battery?
+3.EXTERIOR
+▪ Sir is there anyexternal damage int he body?
+▪ Sir is there any Oil leak in Suspension?
+▪ sir is there any external problem present?
+4.BRAKES
+▪ Sir what is the Condition of Brake Fluid level? 
+▪ what is the Brake Condition for Front brake ?
+▪ what is Brake Condition for Rear brake ?
+▪ how is Emergency Brake working sir ? 
+▪ Any other faul in the brake?
+5. ENGINE
+▪ is there Rust, Dents or Damage in Engine?
+▪ Sir can you describe the condition of the engine?
+▪ What is the Engine Oil Condition ?  
+▪ Sir What is the color of the Engine Oil ?
+▪ What is the condition of Brake Fluid ?
+▪ What is the color of the Brake Fluid ?
+▪ Any oil leak in Engine ?
+▪ Any other in engine problem?

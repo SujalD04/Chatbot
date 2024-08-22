@@ -1,0 +1,53 @@
+body {
+    background-image: url('/images/wallpaper_Repair.jpeg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+.logo{
+  width:200px;
+   height:40px;
+}
+.container.marketing {
+    padding: 90px; /* Adjusts spacing below navbar */
+}
+.footer {
+    margin-top: auto; /* Pushes footer to the bottom */
+    text-align: center;
+    padding-top: 20px;
+}
+.navbar-custom {
+    background-color: rgba(255, 255, 255, 0.8); /* Semi-transparent navbar */
+}
+.bg-dark-transparent {
+    background-color: rgba(0, 0, 0, 0.8); /* Dark background with 80% opacity */
+}
+.form-control {
+    background-color: rgba(255, 255, 255, 0.8); /* Slightly transparent background for form inputs */
+}
+.col-lg-4.bg-dark {
+    background-color: rgba(0, 0, 0, 0.8);
+    border-radius: 15px;
+}
+.btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+}
+.btn-primary:hover {
+    background-color: #0056b3;
+    border-color: #004085;
+}
+.footer {
+  color: rgb(255, 255, 255);
+  text-align: center;
+}
+.footer p a{
+text-decoration: none;
+color: rgb(255, 255, 255);
+}
+.nav-item a{
+color: #000;
+}
